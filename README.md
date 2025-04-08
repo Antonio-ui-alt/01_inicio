@@ -6,5 +6,4 @@
 
  
  <a herf="https://antonio-ui-alt.github.io/01_inicio/"
- target"-blank">ver sito wueb</a>
- 
+ target="_blank">ver sito web</a>
